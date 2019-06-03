@@ -13,5 +13,6 @@
 ## 更多 V2Ray 教程文章
 https://github.com/233boy/v2ray/wiki
 
-## 取消轮子屏蔽
+## 取消轮子屏蔽---已取消
+config/server/include/ban.json
 <https://github.com/233boy/v2ray/issues/186#issuecomment-498109456>
