@@ -16,3 +16,7 @@ https://github.com/233boy/v2ray/wiki
 ## 取消轮子屏蔽---已取消
 config/server/include/ban.json
 <https://github.com/233boy/v2ray/issues/186#issuecomment-498109456>
+
+提示：
+暂不支持树莓派  
+![image](https://user-images.githubusercontent.com/12899262/58779526-c6855d00-8608-11e9-8496-cf171e10867d.png)
