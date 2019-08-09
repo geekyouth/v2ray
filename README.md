@@ -20,10 +20,12 @@ config/server/include/ban.json
 
 ## 快速安装极客青年专版【取消屏蔽】
 root 登录服务器  
+```sh
 git clone https://github.com/geekyouth/v2ray.git  
 cd v2ray && ls -al  
 chmod +x install.sh  
 ./install.sh  
+```
 
 接下来会有中文提示，傻瓜操作  
 
