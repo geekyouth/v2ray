@@ -19,16 +19,16 @@ config/server/include/ban.json
 ![image](https://user-images.githubusercontent.com/12899262/58779526-c6855d00-8608-11e9-8496-cf171e10867d.png)
 
 ## 快速安装极客青年专版【取消屏蔽】
-root 登录服务器
-git clone https://github.com/geekyouth/v2ray.git
-cd v2ray && ls -al
-chmod +x install.sh
-./install.sh
+root 登录服务器  
+git clone https://github.com/geekyouth/v2ray.git  
+cd v2ray && ls -al  
+chmod +x install.sh  
+./install.sh  
 
-接下来会有中文提示，傻瓜操作
+接下来会有中文提示，傻瓜操作  
 
 ## 推荐安装加速模块，提速10倍
-v2ray bbr
-推荐选择第一个bbr ，装完重启，关闭防火墙【centos7】：systemctl stop firewalld.service
-
-可以开车了！！！
+v2ray bbr  
+推荐选择第一个bbr ，装完重启，关闭防火墙【centos7】：systemctl stop firewalld.service  
+  
+可以开车了！！！  
